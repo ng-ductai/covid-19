@@ -51,6 +51,10 @@
 
 @media (max-width:739px){
 
+    section {
+        padding-top: 50px;
+    }
+
     html{
         font-size: 50%;
     }

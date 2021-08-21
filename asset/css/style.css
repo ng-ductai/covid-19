@@ -296,10 +296,6 @@
 padding:  0 25px 0 0px;
 }
 
-/* .doctor .swiper-wrapper{
-    padding: 20px 0  40px 25px;
-} */
-
 .doctor .swiper-slider{
     margin-right: 20px;
 }
@@ -347,6 +343,10 @@ padding:  0 25px 0 0px;
     color: var(--dark-blue);
     padding: 6px 0;
     display: block;
+}
+
+.footer .box-container_item-contact {
+    flex-direction: column;
 }
 
 .footer .box-container_item-contact a{
